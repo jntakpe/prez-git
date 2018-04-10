@@ -1,6 +1,6 @@
 ## Ignoring files
 
-Intentionally untrack files
+To intentionally untrack files create a file ``.gitignore``
 
 ```text
 .gradle
