@@ -14,5 +14,4 @@ To intentionally untrack files create a file ``.gitignore``
 *.iws
 *.iml
 *.ipr
-
 ``` 
